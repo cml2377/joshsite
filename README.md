@@ -9,9 +9,11 @@ This site is written for Josh. Generic, with a sign-in page.
 
 ## Technology Used
 1. HTML, CSS, JS
-2. Github Pages (to host, for now)
+2. Github Pages (to host, for now-- Heroku for full site)
 3. Bootstrap
 4. React?
+5. Unsplash for images
+6. MySQL for user database ?
 
 ## Acknowledgements
-
+Modeling website after our 2nd project, [The PACK.](https://github.com/cml2377/THE-PACK)
